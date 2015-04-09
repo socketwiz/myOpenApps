@@ -1,336 +1,0 @@
-TmyOpenApps
-v7
-r0
-t302495085.641612
-cCheck dependencies
-cProcessInfoPlistFile /Users/socketwiz/my_projects/Cocoa/myOpenApps/build/Debug/myOpenApps.app/Contents/Info.plist Info.plist
-cStripNIB /Users/socketwiz/my_projects/Cocoa/myOpenApps/English.lproj/MainMenu.nib
-cCopyStringsFile /Users/socketwiz/my_projects/Cocoa/myOpenApps/build/Debug/myOpenApps.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
-cProcessPCH /var/folders/FT/FTTy3TGNH00mD0ObyBY9A++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/myOpenApps_Prefix-abjopllsccpkjofrwfujfopubrbt/myOpenApps_Prefix.pch.pth myOpenApps_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/myOpenApps.build/Debug/myOpenApps.build/Objects-normal/i386/main.o /Users/socketwiz/my_projects/Cocoa/myOpenApps/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/myOpenApps.build/Debug/myOpenApps.build/Objects-normal/i386/Process.o /Users/socketwiz/my_projects/Cocoa/myOpenApps/Process.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/myOpenApps.build/Debug/myOpenApps.build/Objects-normal/i386/AppController.o /Users/socketwiz/my_projects/Cocoa/myOpenApps/AppController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cLd /Users/socketwiz/my_projects/Cocoa/myOpenApps/build/Debug/myOpenApps.app/Contents/MacOS/myOpenApps normal i386
-cTouch /Users/socketwiz/my_projects/Cocoa/myOpenApps/build/Debug/myOpenApps.app
-
-N/Developer/SDKs/MacOSX10.5.sdk
-c000000004C44D90700000000000000EE
-t1279580423
-s238
-
-N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
-c0000000040C4AA6800000000000001E5
-t1086630504
-s485
-
-N/Developer/SDKs/MacOSX10.6.sdk
-c000000004C44D90900000000000000EE
-t1279580425
-s238
-
-N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
-c0000000040C4AA6800000000000001E5
-t1086630504
-s485
-
-N/System/Library/Frameworks/Cocoa.framework/Cocoa
-c000000004A1F2D63000000000000A5E0
-t1243557219
-s42464
-
-N/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
-c0000000040C4AA6800000000000001E5
-t1086630504
-s485
-
-N/Users/socketwiz/my_projects/Cocoa/myOpenApps/AppController.h
-c000000004C478B080000000000000228
-t1279757064
-s552
-i<Cocoa/Cocoa.h>
-
-N/Users/socketwiz/my_projects/Cocoa/myOpenApps/AppController.m
-c000000004C4792720000000000000B3F
-t1279758962
-s2879
-i"AppController.h"
-i"Process.h"
-
-N/Users/socketwiz/my_projects/Cocoa/myOpenApps/English.lproj/InfoPlist.strings
-c000000004757D60C00000000000000CC
-t1196938764
-s204
-
-N/Users/socketwiz/my_projects/Cocoa/myOpenApps/English.lproj/MainMenu.nib
-c000000004AA3213F0000000000000088
-t1252204863
-s136
-
-N/Users/socketwiz/my_projects/Cocoa/myOpenApps/Process.h
-c000000004C478EBA0000000000000143
-t1279758010
-s323
-i<Cocoa/Cocoa.h>
-
-N/Users/socketwiz/my_projects/Cocoa/myOpenApps/Process.m
-c000000004C478E6C00000000000001A0
-t1279757932
-s416
-i"Process.h"
-
-N/Users/socketwiz/my_projects/Cocoa/myOpenApps/build/Debug/myOpenApps.app
-t1280802285
-s102
-
-N/Users/socketwiz/my_projects/Cocoa/myOpenApps/build/Debug/myOpenApps.app/Contents/Info.plist
-t1279757994
-s778
-
-N/Users/socketwiz/my_projects/Cocoa/myOpenApps/build/Debug/myOpenApps.app/Contents/MacOS/myOpenApps
-t1280802285
-s20452
-
-N/Users/socketwiz/my_projects/Cocoa/myOpenApps/build/Debug/myOpenApps.app/Contents/PkgInfo
-t1279757994
-s8
-
-N/Users/socketwiz/my_projects/Cocoa/myOpenApps/build/Debug/myOpenApps.app/Contents/Resources/English.lproj/InfoPlist.strings
-t1279756733
-s204
-
-N/Users/socketwiz/my_projects/Cocoa/myOpenApps/build/Debug/myOpenApps.app/Contents/Resources/English.lproj/MainMenu.nib
-t1279756733
-s24328
-
-N/Users/socketwiz/my_projects/Cocoa/myOpenApps/build/myOpenApps.build/Debug/myOpenApps.build/Objects-normal/i386/AppController.o
-t1280802285
-s24236
-
-N/Users/socketwiz/my_projects/Cocoa/myOpenApps/build/myOpenApps.build/Debug/myOpenApps.build/Objects-normal/i386/Process.o
-t1280802285
-s5384
-
-N/Users/socketwiz/my_projects/Cocoa/myOpenApps/build/myOpenApps.build/Debug/myOpenApps.build/Objects-normal/i386/main.o
-t1280802285
-s2108
-
-N/Users/socketwiz/my_projects/Cocoa/myOpenApps/build/myOpenApps.build/Debug/myOpenApps.build/Objects-normal/i386/myOpenApps.LinkFileList
-c000000004C4789BD0000000000000171
-t1279756733
-s369
-
-N/Users/socketwiz/my_projects/Cocoa/myOpenApps/main.m
-c000000004757D60C0000000000000101
-t1196938764
-s257
-i<Cocoa/Cocoa.h>
-
-N/Users/socketwiz/my_projects/Cocoa/myOpenApps/myOpenApps_Prefix.pch
-c000000004757D60C0000000000000097
-t1196938764
-s151
-i<Cocoa/Cocoa.h>
-
-N/var/folders/FT/FTTy3TGNH00mD0ObyBY9A++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/myOpenApps_Prefix-abjopllsccpkjofrwfujfopubrbt/myOpenApps_Prefix.pch.pth
-t2
-s0
-
-N/var/folders/FT/FTTy3TGNH00mD0ObyBY9A++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/myOpenApps_Prefix-cgfcrdkepqclaheysmscvwzcxhvb/myOpenApps_Prefix.pch.pth
-t2
-s0
-
-N/var/folders/FT/FTTy3TGNH00mD0ObyBY9A++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/myOpenApps_Prefix-csqccclurtulsxackjkgurwqbhpc/myOpenApps_Prefix.pch.pth
-t1279756733
-s8579080
-
-N/var/folders/FT/FTTy3TGNH00mD0ObyBY9A++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/myOpenApps_Prefix-ejdlanmkwoqiuybsmrgdopoawtfm/myOpenApps_Prefix.pch.gch
-t2
-s0
-
-N/var/folders/FT/FTTy3TGNH00mD0ObyBY9A++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/myOpenApps_Prefix-fndrdqeaqfuvrzgsbawbvarzhazm/myOpenApps_Prefix.pch.pth
-t2
-s0
-
-N/var/folders/Yc/Yc2HCpsmHwGlQ6g7GGvnS+++-+2/-Caches-/com.apple.Xcode.1025/SharedPrecompiledHeaders/myOpenApps_Prefix-hchhhqbreyrwjmgwtyombdjbdsms/myOpenApps_Prefix.pch.gch
-t2
-s0
-
-NInfo.plist
-c000000004757D60C0000000000000347
-t1196938764
-s839
-
-CCheck dependencies
-r0
-lSLF07#2@18"Check dependencies302495084#302495084#0(0"0(0#1#0"8618930240#0"0#
-
-CCompileC build/myOpenApps.build/Debug/myOpenApps.build/Objects-normal/i386/AppController.o /Users/socketwiz/my_projects/Cocoa/myOpenApps/AppController.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s273898461.605684
-e273898462.257763
-r1
-xCompileC
-xbuild/myOpenApps.build/Debug/myOpenApps.build/Objects-normal/i386/AppController.o
-x/Users/socketwiz/my_projects/Cocoa/myOpenApps/AppController.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@69"Compile /Users/socketwiz/my_projects/Cocoa/myOpenApps/AppController.m273898461#273898462#0(0"0(0#0#61"/Users/socketwiz/my_projects/Cocoa/myOpenApps/AppController.m4300882208#1177"    cd /Users/socketwiz/my_projects/Cocoa/myOpenApps    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/socketwiz/my_projects/Cocoa/myOpenApps/build/myOpenApps.build/Debug/myOpenApps.build/myOpenApps.hmap -F/Users/socketwiz/my_projects/Cocoa/myOpenApps/build/Debug -I/Users/socketwiz/my_projects/Cocoa/myOpenApps/build/Debug/include -I/Users/socketwiz/my_projects/Cocoa/myOpenApps/build/myOpenApps.build/Debug/myOpenApps.build/DerivedSources/i386 -I/Users/socketwiz/my_projects/Cocoa/myOpenApps/build/myOpenApps.build/Debug/myOpenApps.build/DerivedSources -include /var/folders/Yc/Yc2HCpsmHwGlQ6g7GGvnS+++-+2/-Caches-/com.apple.Xcode.1025/SharedPrecompiledHeaders/myOpenApps_Prefix-hchhhqbreyrwjmgwtyombdjbdsms/myOpenApps_Prefix.pch -c /Users/socketwiz/my_projects/Cocoa/myOpenApps/AppController.m -o /Users/socketwiz/my_projects/Cocoa/myOpenApps/build/myOpenApps.build/Debug/myOpenApps.build/Objects-normal/i386/AppController.o0#
-
-CCompileC build/myOpenApps.build/Debug/myOpenApps.build/Objects-normal/i386/AppController.o /Users/socketwiz/my_projects/Cocoa/myOpenApps/AppController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s302495085.549534
-e302495085.609826
-r1
-xCompileC
-xbuild/myOpenApps.build/Debug/myOpenApps.build/Objects-normal/i386/AppController.o
-x/Users/socketwiz/my_projects/Cocoa/myOpenApps/AppController.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF07#2@69"Compile /Users/socketwiz/my_projects/Cocoa/myOpenApps/AppController.m302495085#302495085#0(0"0(0#0#61"/Users/socketwiz/my_projects/Cocoa/myOpenApps/AppController.m8618878240#1145"    cd /Users/socketwiz/my_projects/Cocoa/myOpenApps    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -fasm-blocks -mfix-and-continue -gdwarf-2 -I/Users/socketwiz/my_projects/Cocoa/myOpenApps/build/myOpenApps.build/Debug/myOpenApps.build/myOpenApps.hmap -F/Users/socketwiz/my_projects/Cocoa/myOpenApps/build/Debug -I/Users/socketwiz/my_projects/Cocoa/myOpenApps/build/Debug/include -I/Users/socketwiz/my_projects/Cocoa/myOpenApps/build/myOpenApps.build/Debug/myOpenApps.build/DerivedSources/i386 -I/Users/socketwiz/my_projects/Cocoa/myOpenApps/build/myOpenApps.build/Debug/myOpenApps.build/DerivedSources -include /var/folders/FT/FTTy3TGNH00mD0ObyBY9A++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/myOpenApps_Prefix-abjopllsccpkjofrwfujfopubrbt/myOpenApps_Prefix.pch -c /Users/socketwiz/my_projects/Cocoa/myOpenApps/AppController.m -o /Users/socketwiz/my_projects/Cocoa/myOpenApps/build/myOpenApps.build/Debug/myOpenApps.build/Objects-normal/i386/AppController.o0#
-
-CCompileC build/myOpenApps.build/Debug/myOpenApps.build/Objects-normal/i386/Process.o /Users/socketwiz/my_projects/Cocoa/myOpenApps/Process.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s273883045.087383
-e273883045.288140
-r1
-xCompileC
-xbuild/myOpenApps.build/Debug/myOpenApps.build/Objects-normal/i386/Process.o
-x/Users/socketwiz/my_projects/Cocoa/myOpenApps/Process.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@63"Compile /Users/socketwiz/my_projects/Cocoa/myOpenApps/Process.m273883045#273883045#0(0"0(0#0#55"/Users/socketwiz/my_projects/Cocoa/myOpenApps/Process.m4300882208#1165"    cd /Users/socketwiz/my_projects/Cocoa/myOpenApps    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/socketwiz/my_projects/Cocoa/myOpenApps/build/myOpenApps.build/Debug/myOpenApps.build/myOpenApps.hmap -F/Users/socketwiz/my_projects/Cocoa/myOpenApps/build/Debug -I/Users/socketwiz/my_projects/Cocoa/myOpenApps/build/Debug/include -I/Users/socketwiz/my_projects/Cocoa/myOpenApps/build/myOpenApps.build/Debug/myOpenApps.build/DerivedSources/i386 -I/Users/socketwiz/my_projects/Cocoa/myOpenApps/build/myOpenApps.build/Debug/myOpenApps.build/DerivedSources -include /var/folders/Yc/Yc2HCpsmHwGlQ6g7GGvnS+++-+2/-Caches-/com.apple.Xcode.1025/SharedPrecompiledHeaders/myOpenApps_Prefix-hchhhqbreyrwjmgwtyombdjbdsms/myOpenApps_Prefix.pch -c /Users/socketwiz/my_projects/Cocoa/myOpenApps/Process.m -o /Users/socketwiz/my_projects/Cocoa/myOpenApps/build/myOpenApps.build/Debug/myOpenApps.build/Objects-normal/i386/Process.o0#
-
-CCompileC build/myOpenApps.build/Debug/myOpenApps.build/Objects-normal/i386/Process.o /Users/socketwiz/my_projects/Cocoa/myOpenApps/Process.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s302495085.548938
-e302495085.594434
-r1
-xCompileC
-xbuild/myOpenApps.build/Debug/myOpenApps.build/Objects-normal/i386/Process.o
-x/Users/socketwiz/my_projects/Cocoa/myOpenApps/Process.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF07#2@63"Compile /Users/socketwiz/my_projects/Cocoa/myOpenApps/Process.m302495085#302495085#0(0"0(0#0#55"/Users/socketwiz/my_projects/Cocoa/myOpenApps/Process.m8618912384#1133"    cd /Users/socketwiz/my_projects/Cocoa/myOpenApps    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -fasm-blocks -mfix-and-continue -gdwarf-2 -I/Users/socketwiz/my_projects/Cocoa/myOpenApps/build/myOpenApps.build/Debug/myOpenApps.build/myOpenApps.hmap -F/Users/socketwiz/my_projects/Cocoa/myOpenApps/build/Debug -I/Users/socketwiz/my_projects/Cocoa/myOpenApps/build/Debug/include -I/Users/socketwiz/my_projects/Cocoa/myOpenApps/build/myOpenApps.build/Debug/myOpenApps.build/DerivedSources/i386 -I/Users/socketwiz/my_projects/Cocoa/myOpenApps/build/myOpenApps.build/Debug/myOpenApps.build/DerivedSources -include /var/folders/FT/FTTy3TGNH00mD0ObyBY9A++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/myOpenApps_Prefix-abjopllsccpkjofrwfujfopubrbt/myOpenApps_Prefix.pch -c /Users/socketwiz/my_projects/Cocoa/myOpenApps/Process.m -o /Users/socketwiz/my_projects/Cocoa/myOpenApps/build/myOpenApps.build/Debug/myOpenApps.build/Objects-normal/i386/Process.o0#
-
-CCompileC build/myOpenApps.build/Debug/myOpenApps.build/Objects-normal/i386/main.o /Users/socketwiz/my_projects/Cocoa/myOpenApps/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s273883045.086457
-e273883045.276071
-r1
-xCompileC
-xbuild/myOpenApps.build/Debug/myOpenApps.build/Objects-normal/i386/main.o
-x/Users/socketwiz/my_projects/Cocoa/myOpenApps/main.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@60"Compile /Users/socketwiz/my_projects/Cocoa/myOpenApps/main.m273883045#273883045#0(0"0(0#0#52"/Users/socketwiz/my_projects/Cocoa/myOpenApps/main.m4300882208#1159"    cd /Users/socketwiz/my_projects/Cocoa/myOpenApps    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/socketwiz/my_projects/Cocoa/myOpenApps/build/myOpenApps.build/Debug/myOpenApps.build/myOpenApps.hmap -F/Users/socketwiz/my_projects/Cocoa/myOpenApps/build/Debug -I/Users/socketwiz/my_projects/Cocoa/myOpenApps/build/Debug/include -I/Users/socketwiz/my_projects/Cocoa/myOpenApps/build/myOpenApps.build/Debug/myOpenApps.build/DerivedSources/i386 -I/Users/socketwiz/my_projects/Cocoa/myOpenApps/build/myOpenApps.build/Debug/myOpenApps.build/DerivedSources -include /var/folders/Yc/Yc2HCpsmHwGlQ6g7GGvnS+++-+2/-Caches-/com.apple.Xcode.1025/SharedPrecompiledHeaders/myOpenApps_Prefix-hchhhqbreyrwjmgwtyombdjbdsms/myOpenApps_Prefix.pch -c /Users/socketwiz/my_projects/Cocoa/myOpenApps/main.m -o /Users/socketwiz/my_projects/Cocoa/myOpenApps/build/myOpenApps.build/Debug/myOpenApps.build/Objects-normal/i386/main.o0#
-
-CCompileC build/myOpenApps.build/Debug/myOpenApps.build/Objects-normal/i386/main.o /Users/socketwiz/my_projects/Cocoa/myOpenApps/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s302495085.548268
-e302495085.594307
-r1
-xCompileC
-xbuild/myOpenApps.build/Debug/myOpenApps.build/Objects-normal/i386/main.o
-x/Users/socketwiz/my_projects/Cocoa/myOpenApps/main.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF07#2@60"Compile /Users/socketwiz/my_projects/Cocoa/myOpenApps/main.m302495085#302495085#0(0"0(0#0#52"/Users/socketwiz/my_projects/Cocoa/myOpenApps/main.m8619105568#1127"    cd /Users/socketwiz/my_projects/Cocoa/myOpenApps    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -fasm-blocks -mfix-and-continue -gdwarf-2 -I/Users/socketwiz/my_projects/Cocoa/myOpenApps/build/myOpenApps.build/Debug/myOpenApps.build/myOpenApps.hmap -F/Users/socketwiz/my_projects/Cocoa/myOpenApps/build/Debug -I/Users/socketwiz/my_projects/Cocoa/myOpenApps/build/Debug/include -I/Users/socketwiz/my_projects/Cocoa/myOpenApps/build/myOpenApps.build/Debug/myOpenApps.build/DerivedSources/i386 -I/Users/socketwiz/my_projects/Cocoa/myOpenApps/build/myOpenApps.build/Debug/myOpenApps.build/DerivedSources -include /var/folders/FT/FTTy3TGNH00mD0ObyBY9A++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/myOpenApps_Prefix-abjopllsccpkjofrwfujfopubrbt/myOpenApps_Prefix.pch -c /Users/socketwiz/my_projects/Cocoa/myOpenApps/main.m -o /Users/socketwiz/my_projects/Cocoa/myOpenApps/build/myOpenApps.build/Debug/myOpenApps.build/Objects-normal/i386/main.o0#
-
-CCopyStringsFile /Users/socketwiz/my_projects/Cocoa/myOpenApps/build/Debug/myOpenApps.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
-s301449533.190265
-e301449533.298363
-r1
-xCopyStringsFile
-x/Users/socketwiz/my_projects/Cocoa/myOpenApps/build/Debug/myOpenApps.app/Contents/Resources/English.lproj/InfoPlist.strings
-xEnglish.lproj/InfoPlist.strings
-lSLF07#2@36"Copy English.lproj/InfoPlist.strings301449533#301449533#0(0"0(0#0#77"/Users/socketwiz/my_projects/Cocoa/myOpenApps/English.lproj/InfoPlist.strings8608919904#383"    cd /Users/socketwiz/my_projects/Cocoa/myOpenApps    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-16 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/socketwiz/my_projects/Cocoa/myOpenApps/build/Debug/myOpenApps.app/Contents/Resources/English.lproj0#
-
-CLd /Users/socketwiz/my_projects/Cocoa/myOpenApps/build/Debug/myOpenApps.app/Contents/MacOS/myOpenApps normal i386
-s302495085.609893
-e302495085.639422
-r1
-xLd
-x/Users/socketwiz/my_projects/Cocoa/myOpenApps/build/Debug/myOpenApps.app/Contents/MacOS/myOpenApps
-xnormal
-xi386
-lSLF07#2@103"Link /Users/socketwiz/my_projects/Cocoa/myOpenApps/build/Debug/myOpenApps.app/Contents/MacOS/myOpenApps302495085#302495085#0(0"0(0#0#0"8618205888#478"    cd /Users/socketwiz/my_projects/Cocoa/myOpenApps    /Developer/usr/bin/clang -arch i386 -L/Users/socketwiz/my_projects/Cocoa/myOpenApps/build/Debug -F/Users/socketwiz/my_projects/Cocoa/myOpenApps/build/Debug -filelist /Users/socketwiz/my_projects/Cocoa/myOpenApps/build/myOpenApps.build/Debug/myOpenApps.build/Objects-normal/i386/myOpenApps.LinkFileList -framework Cocoa -o /Users/socketwiz/my_projects/Cocoa/myOpenApps/build/Debug/myOpenApps.app/Contents/MacOS/myOpenApps0#
-
-CProcessInfoPlistFile /Users/socketwiz/my_projects/Cocoa/myOpenApps/build/Debug/myOpenApps.app/Contents/Info.plist Info.plist
-s301450794.267841
-e301450794.276362
-r1
-xProcessInfoPlistFile
-x/Users/socketwiz/my_projects/Cocoa/myOpenApps/build/Debug/myOpenApps.app/Contents/Info.plist
-xInfo.plist
-lSLF07#2@18"Process Info.plist301450794#301450794#0(0"0(0#0#56"/Users/socketwiz/my_projects/Cocoa/myOpenApps/Info.plist8625393568#329"    cd /Users/socketwiz/my_projects/Cocoa/myOpenApps    builtin-infoPlistUtility Info.plist -genpkginfo /Users/socketwiz/my_projects/Cocoa/myOpenApps/build/Debug/myOpenApps.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/socketwiz/my_projects/Cocoa/myOpenApps/build/Debug/myOpenApps.app/Contents/Info.plist0#
-
-CProcessPCH /var/folders/FT/FTTy3TGNH00mD0ObyBY9A++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/myOpenApps_Prefix-abjopllsccpkjofrwfujfopubrbt/myOpenApps_Prefix.pch.pth myOpenApps_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s302495084.983838
-e302495085.548195
-r1
-xProcessPCH
-x/var/folders/FT/FTTy3TGNH00mD0ObyBY9A++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/myOpenApps_Prefix-abjopllsccpkjofrwfujfopubrbt/myOpenApps_Prefix.pch.pth
-xmyOpenApps_Prefix.pch
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF07#2@32"Precompile myOpenApps_Prefix.pch302495084#302495085#0(0"0(0#0#67"/Users/socketwiz/my_projects/Cocoa/myOpenApps/myOpenApps_Prefix.pch8618739936#1025"    cd /Users/socketwiz/my_projects/Cocoa/myOpenApps    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -fasm-blocks -mfix-and-continue -gdwarf-2 -I/Users/socketwiz/my_projects/Cocoa/myOpenApps/build/myOpenApps.build/Debug/myOpenApps.build/myOpenApps.hmap -F/Users/socketwiz/my_projects/Cocoa/myOpenApps/build/Debug -I/Users/socketwiz/my_projects/Cocoa/myOpenApps/build/Debug/include -I/Users/socketwiz/my_projects/Cocoa/myOpenApps/build/myOpenApps.build/Debug/myOpenApps.build/DerivedSources/i386 -I/Users/socketwiz/my_projects/Cocoa/myOpenApps/build/myOpenApps.build/Debug/myOpenApps.build/DerivedSources -c /Users/socketwiz/my_projects/Cocoa/myOpenApps/myOpenApps_Prefix.pch -o /var/folders/FT/FTTy3TGNH00mD0ObyBY9A++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/myOpenApps_Prefix-abjopllsccpkjofrwfujfopubrbt/myOpenApps_Prefix.pch.pth0#
-
-CProcessPCH /var/folders/FT/FTTy3TGNH00mD0ObyBY9A++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/myOpenApps_Prefix-cgfcrdkepqclaheysmscvwzcxhvb/myOpenApps_Prefix.pch.pth myOpenApps_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-r0
-
-CProcessPCH /var/folders/FT/FTTy3TGNH00mD0ObyBY9A++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/myOpenApps_Prefix-csqccclurtulsxackjkgurwqbhpc/myOpenApps_Prefix.pch.pth myOpenApps_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s301449533.298457
-e301449533.898236
-r1
-xProcessPCH
-x/var/folders/FT/FTTy3TGNH00mD0ObyBY9A++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/myOpenApps_Prefix-csqccclurtulsxackjkgurwqbhpc/myOpenApps_Prefix.pch.pth
-xmyOpenApps_Prefix.pch
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF07#2@32"Precompile myOpenApps_Prefix.pch301449533#301449533#0(0"0(0#0#67"/Users/socketwiz/my_projects/Cocoa/myOpenApps/myOpenApps_Prefix.pch8461247078443611136#1092"    cd /Users/socketwiz/my_projects/Cocoa/myOpenApps    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -fasm-blocks -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/socketwiz/my_projects/Cocoa/myOpenApps/build/myOpenApps.build/Debug/myOpenApps.build/myOpenApps.hmap -F/Users/socketwiz/my_projects/Cocoa/myOpenApps/build/Debug -I/Users/socketwiz/my_projects/Cocoa/myOpenApps/build/Debug/include -I/Users/socketwiz/my_projects/Cocoa/myOpenApps/build/myOpenApps.build/Debug/myOpenApps.build/DerivedSources/i386 -I/Users/socketwiz/my_projects/Cocoa/myOpenApps/build/myOpenApps.build/Debug/myOpenApps.build/DerivedSources -c /Users/socketwiz/my_projects/Cocoa/myOpenApps/myOpenApps_Prefix.pch -o /var/folders/FT/FTTy3TGNH00mD0ObyBY9A++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/myOpenApps_Prefix-csqccclurtulsxackjkgurwqbhpc/myOpenApps_Prefix.pch.pth0#
-
-CProcessPCH /var/folders/FT/FTTy3TGNH00mD0ObyBY9A++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/myOpenApps_Prefix-ejdlanmkwoqiuybsmrgdopoawtfm/myOpenApps_Prefix.pch.gch myOpenApps_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
-r0
-
-CProcessPCH /var/folders/FT/FTTy3TGNH00mD0ObyBY9A++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/myOpenApps_Prefix-fndrdqeaqfuvrzgsbawbvarzhazm/myOpenApps_Prefix.pch.pth myOpenApps_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-r0
-
-CProcessPCH /var/folders/Yc/Yc2HCpsmHwGlQ6g7GGvnS+++-+2/-Caches-/com.apple.Xcode.1025/SharedPrecompiledHeaders/myOpenApps_Prefix-hchhhqbreyrwjmgwtyombdjbdsms/myOpenApps_Prefix.pch.gch myOpenApps_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
-s273883041.978949
-e273883045.086312
-r1
-xProcessPCH
-x/var/folders/Yc/Yc2HCpsmHwGlQ6g7GGvnS+++-+2/-Caches-/com.apple.Xcode.1025/SharedPrecompiledHeaders/myOpenApps_Prefix-hchhhqbreyrwjmgwtyombdjbdsms/myOpenApps_Prefix.pch.gch
-xmyOpenApps_Prefix.pch
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@32"Precompile myOpenApps_Prefix.pch273883041#273883045#0(0"0(0#0#67"/Users/socketwiz/my_projects/Cocoa/myOpenApps/myOpenApps_Prefix.pch4300882208#1057"    cd /Users/socketwiz/my_projects/Cocoa/myOpenApps    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/socketwiz/my_projects/Cocoa/myOpenApps/build/myOpenApps.build/Debug/myOpenApps.build/myOpenApps.hmap -F/Users/socketwiz/my_projects/Cocoa/myOpenApps/build/Debug -I/Users/socketwiz/my_projects/Cocoa/myOpenApps/build/Debug/include -I/Users/socketwiz/my_projects/Cocoa/myOpenApps/build/myOpenApps.build/Debug/myOpenApps.build/DerivedSources/i386 -I/Users/socketwiz/my_projects/Cocoa/myOpenApps/build/myOpenApps.build/Debug/myOpenApps.build/DerivedSources -c /Users/socketwiz/my_projects/Cocoa/myOpenApps/myOpenApps_Prefix.pch -o /var/folders/Yc/Yc2HCpsmHwGlQ6g7GGvnS+++-+2/-Caches-/com.apple.Xcode.1025/SharedPrecompiledHeaders/myOpenApps_Prefix-hchhhqbreyrwjmgwtyombdjbdsms/myOpenApps_Prefix.pch.gch0#
-
-CStripNIB /Users/socketwiz/my_projects/Cocoa/myOpenApps/English.lproj/MainMenu.nib
-s301449533.189699
-e301449533.296965
-r1
-xStripNIB
-x/Users/socketwiz/my_projects/Cocoa/myOpenApps/English.lproj/MainMenu.nib
-lSLF07#2@35"StripNIB English.lproj/MainMenu.nib301449533#301449533#0(0"0(0#0#72"/Users/socketwiz/my_projects/Cocoa/myOpenApps/English.lproj/MainMenu.nib8609149440#319"    cd /Users/socketwiz/my_projects/Cocoa/myOpenApps    /Developer/usr/bin/ibtool --strip /Users/socketwiz/my_projects/Cocoa/myOpenApps/build/Debug/myOpenApps.app/Contents/Resources/English.lproj/MainMenu.nib --output-format human-readable-text /Users/socketwiz/my_projects/Cocoa/myOpenApps/English.lproj/MainMenu.nib0#
-
-CTouch /Users/socketwiz/my_projects/Cocoa/myOpenApps/build/Debug/myOpenApps.app
-s302495085.639484
-e302495085.641582
-r1
-xTouch
-x/Users/socketwiz/my_projects/Cocoa/myOpenApps/build/Debug/myOpenApps.app
-lSLF07#2@78"Touch /Users/socketwiz/my_projects/Cocoa/myOpenApps/build/Debug/myOpenApps.app302495085#302495085#0(0"0(0#0#0"8617735744#148"    cd /Users/socketwiz/my_projects/Cocoa/myOpenApps    /usr/bin/touch -c /Users/socketwiz/my_projects/Cocoa/myOpenApps/build/Debug/myOpenApps.app0#
-
